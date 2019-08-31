@@ -1,0 +1,37 @@
+html,
+body {
+  height: 100%;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+input,
+img,
+div,
+a,
+p,
+b,
+i,
+u,
+s {
+  padding: 0;
+  margin: 0;
+}
+ul,
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+input {
+  outline: 0 !important;
+  border: 0 !important;
+}
